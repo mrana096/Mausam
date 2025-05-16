@@ -20,7 +20,7 @@ Code. Collaborate. Create. 🚀 | Welcome to my GitHub journey! 🌟
 
 ### 🛠️ Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css,react,nodejs,mysql,postgresql,mongodb, power bi, tableau, git,github,docker,tensorflow,vscode,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,r,java,javascript,html,css,react,nodejs,mysql,postgresql,mongodb, git,github,docker,tensorflow,vscode,linux&perline=9" />
 
 ---
 
