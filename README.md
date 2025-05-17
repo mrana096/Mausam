@@ -6,15 +6,16 @@ Code. Collaborate. Create. 🚀 | Welcome to my GitHub journey! 🌟
 ---
 
 ### 🔍 About Me:
-
-- 🎓 Currently pursuing my **Master’s of Science in Data Analytics.**
-- 🎓 Previously earned a degree in **Computer Science and Engineering.**
-- 📊 Completed **3-month training in Data Science with Python** at an IT training institute in Kathmandu
-- 👨‍💻 2 years of work experience as a **Software Engineer**
-- 🧠 Passionate about **AI, NLP, Deep Learning, Machine Learning**, and **Data-Driven Business Decisions**
-- 🇺🇸 Based in the USA, originally from Nepal 🇳🇵
-- 🤝 Open to collaboration on data projects and learning opportunities
-- 📫 Reach me: msamnepalayas@gmail.com
+🎓 Currently pursuing my Master’s of Science in Data Analytics
+🎓 Previously earned a degree in Computer Science and Engineering
+🎓 Completed an MBA concentration in Technology and Innovation from Westcliff University with a 4.0 GPA
+🏅 Honored as a Delta Mu Delta chapter member 2023 for academic excellence and contributed actively to the society
+📊 Completed 3-month training in Data Science with Python at an IT training institute in Kathmandu
+👨‍💻 2 years of work experience as a Software Engineer
+🧠 Passionate about AI, NLP, Deep Learning, Machine Learning, and Data-Driven Business Decisions
+🇺🇸 Based in the USA, originally from Nepal 🇳🇵
+🤝 Open to collaboration on data projects and learning opportunities
+📫 Reach me: msamnepalayas@gmail.com
 
 ---
 
