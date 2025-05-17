@@ -1,7 +1,7 @@
-                                                           # Hi there 👋, I'm Mausam Rana
+# Hi there 👋, I'm Mausam Rana
 Code. Collaborate. Create. 🚀 | Welcome to my GitHub journey! 🌟
 
-🚀 Aspiring Data Analyst | 🎓 Business Analytics Grad Student   
+🚀 Aspiring Data Analyst | 🎓 Data Analytics Grad Student   
 
 ---
 
