@@ -83,11 +83,6 @@ Code. Collaborate. Create. 🚀 | Welcome to my GitHub journey! 🌟
 ![Apache Cassandra](https://img.shields.io/badge/-Apache_Cassandra-1283A1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 
-### 📊 GitHub Stats:
-
-![Mausam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mausam&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mausam&layout=compact&theme=radical)
 
 ---
 
